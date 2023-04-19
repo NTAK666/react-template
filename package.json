@@ -3,7 +3,6 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://NTAK666.github.io/react-template",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
